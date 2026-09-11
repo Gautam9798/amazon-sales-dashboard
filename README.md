@@ -1,4 +1,5 @@
 # Amazon Sales Dashboard
+![Amazon Sales Dashboard](Amazon_Sales_Dashboard.png)
 
 ## 📊 Project Overview
 
